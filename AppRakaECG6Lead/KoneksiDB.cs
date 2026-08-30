@@ -8,7 +8,7 @@ namespace AppRakaECG6Lead
     public class KoneksiDB
     {
         // Sesuaikan dengan pengaturan XAMPP bawaan (username: root, password kosong)
-        private static string connectionString = "Server=127.0.0.1;Database=raka;Uid=root;Pwd=root;";
+        private static string connectionString = "Server=127.0.0.1;Database=raka;Uid=root;Pwd=;";
 
         // Fungsi untuk memanggil koneksi dengan mudah dari form mana saja
         public static MySqlConnection GetConnection()

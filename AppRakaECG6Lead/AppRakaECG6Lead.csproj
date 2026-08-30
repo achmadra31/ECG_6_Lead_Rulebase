@@ -30,7 +30,7 @@
     <ErrorReportUrl>https://github.com/achmadra31/ECG_6_Lead_Rulebase</ErrorReportUrl>
     <ProductName>ECG 6 Lead Rulebase</ProductName>
     <PublisherName>ACHMAD RAKA DONI BRAMATYO</PublisherName>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
