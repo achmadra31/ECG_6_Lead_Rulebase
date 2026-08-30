@@ -76,7 +76,8 @@ namespace AppRakaECG6Lead
         // Opsional: Tutup aplikasi sepenuhnya jika form login disilang (X)
         protected override void OnFormClosed(FormClosedEventArgs e)
         {
-            Application.Exit();
+            System.Threading.Thread.Sleep(50);
+            Environment.Exit(0);
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
